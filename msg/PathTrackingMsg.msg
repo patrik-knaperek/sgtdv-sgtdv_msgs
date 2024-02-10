@@ -1,3 +1,3 @@
 Point2DArr trajectory
-CarPose carPose
-CarVel carVel
+CarPose car_pose
+CarVel car_vel
