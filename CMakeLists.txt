@@ -57,8 +57,8 @@ add_message_files(
   ConeArr.msg
   ConeStamped.msg
   ConeStampedArr.msg
-  ConeWithCov.msg
-  ConeWithCovArr.msg
+  ConeWithCovStamped.msg
+  ConeWithCovStampedArr.msg
   ColoredConeArr.msg
   CarPose.msg
   CarVel.msg

@@ -6,8 +6,8 @@
 #include <sgtdv_msgs/ConeArr.h>
 #include <sgtdv_msgs/ConeStamped.h>
 #include <sgtdv_msgs/ConeStampedArr.h>
-#include <sgtdv_msgs/ConeWithCov.h>
-#include <sgtdv_msgs/ConeWithCovArr.h>
+#include <sgtdv_msgs/ConeWithCovStamped.h>
+#include <sgtdv_msgs/ConeWithCovStampedArr.h>
 #include <sgtdv_msgs/ColoredConeArr.h>
 #include <sgtdv_msgs/CarPose.h>
 #include <sgtdv_msgs/CarVel.h>
