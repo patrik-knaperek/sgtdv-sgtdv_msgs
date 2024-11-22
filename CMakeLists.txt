@@ -50,7 +50,6 @@ add_message_files(
   PathPlanningMsg.msg
   PathTrackingMsg.msg
   Control.msg
-  FusionMsg.msg
   SLAMMsg.msg
   DebugState.msg
 )

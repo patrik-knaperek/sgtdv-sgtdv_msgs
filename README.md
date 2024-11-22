@@ -15,11 +15,6 @@ In order to optimize the information flow between nodes and to send only data th
 
 Below, decomposition of combined synchronization messages is showed. 
 
-<figcaption align = "center">FusionMsg.msg message decomposition</figcaption>
-<p align="center">
-  <img src="./doc/sgtdv_msgs-FusionMsg.svg" height="500">
-</p>
-
 <figcaption align = "center">SLAMMsg.msg message decomposition</figcaption>
 <p align="center">
   <img src="./doc/sgtdv_msgs-SLAMMsg.svg" width="800">
