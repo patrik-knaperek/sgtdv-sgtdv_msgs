@@ -52,6 +52,7 @@ add_message_files(
   Control.msg
   SLAMMsg.msg
   DebugState.msg
+  Trajectory.msg
 )
 
 ## Generate services in the 'srv' folder

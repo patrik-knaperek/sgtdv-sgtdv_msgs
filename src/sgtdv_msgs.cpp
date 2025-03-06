@@ -16,4 +16,6 @@
 #include <sgtdv_msgs/PathPlanningMsg.h>
 #include <sgtdv_msgs/PathTrackingMsg.h>
 #include <sgtdv_msgs/SLAMMsg.h>
+#include <sgtdv_msgs/Trajectory.h>
+
 int main() { return 0; }
